@@ -15,7 +15,7 @@ class _PubSubState extends State<PubSub> {
   final List<RTCVideoRenderer> _remoteRenderers = <RTCVideoRenderer>[];
   // final Connector _connector =
       // Connector('https://3f73-41-221-159-214.ngrok.io'); //http://2705-41-221-144-9.ngrok.io
-  final Connector _connector = Connector('http://84b0-41-221-159-214.ngrok.io');
+  final Connector _connector = Connector('http://127.0.0.1:50051');
   final _room = 'ion';
   final _uid = Uuid().v4();
   late RTC _rtc;

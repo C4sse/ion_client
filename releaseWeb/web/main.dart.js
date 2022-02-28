@@ -36750,7 +36750,7 @@ $1(a){return new A.id(null)},
 $S:206}
 A.id.prototype={
 aH(){$.Bv()
-return new A.Nj(new A.js(A.akT()),A.b([],t.aX),A.av0("http://84b0-41-221-159-214.ngrok.io"),new A.a5y().abu(),B.l)}}
+return new A.Nj(new A.js(A.akT()),A.b([],t.aX),A.av0("http://127.0.0.1:50051"),new A.a5y().abu(),B.l)}}
 A.Nj.prototype={
 gcE(a){var s=this.Q
 return s===$?this.Q=!1:s},
