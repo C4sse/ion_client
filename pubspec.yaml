@@ -1,0 +1,21 @@
+name: Dial_A_Docator
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.0
+  flutter:
+    sdk: flutter
+  flutter_icons: ^1.0.0
+  flutter_ion: ^1.0.0
+  permission_handler: ^9.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+flutter:
+  uses-material-design: true
